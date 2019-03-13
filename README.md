@@ -1,4 +1,4 @@
-# BearHoney_Monitors
+# BearHoneyBees_Monitor in Java
 The Bear and Honeybees Problem (multiple producers - one consumer)
 
 Given are n honeybees and a hungry bear. They share a pot of honey. The pot is initially empty; its capacity is H portions of honey. The bear sleeps until the pot is full, then eats all the 
